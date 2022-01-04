@@ -1,0 +1,40 @@
+@media (max-width: 575.98px) { 
+    .navbar-brand img{
+        width: 125px;
+        
+    }
+    .navbar-toggler i{
+        color: blanchedalmond;
+    }
+   .navbar-nav{
+
+    text-align: center;
+    background-color: rgba(13, 86, 163, 0.5);
+   }
+   .navbar-light .navbar-nav .nav-link {
+	color: #fff;
+}
+    .ban_txt {
+        padding-bottom: 325px;
+    }
+    .ban_txt h1 {
+        
+        font-size: 20px;
+    }
+    .ban_txt p {
+       
+        
+        font-size: 15px;
+    }
+    .banner_btn{
+       
+        font-size: 8px;
+    }
+    /* banner part end */
+    .offer {
+        text-align: center;
+        /* padding-right: 115px; */
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+}
